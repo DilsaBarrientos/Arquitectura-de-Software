@@ -2,7 +2,7 @@ package co.edu.udea.casoPractico.dto;
 
 public class Contactos {
 
-    public Contactos(long l, String dilsa, String barrientos, String s, String s1) {
+    public Contactos(long l, String nombre, String apellido, String num, String email) {
     }
 
     public class Contact {
