@@ -2,6 +2,9 @@ package co.edu.udea.casoPractico.dto;
 
 public class Contactos {
 
+    public Contactos(long l, String dilsa, String barrientos, String s, String s1) {
+    }
+
     public class Contact {
 
         private Long id;
